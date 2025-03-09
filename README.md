@@ -61,7 +61,7 @@ Add your own audio files:
 
     Place MP3 files in Audios/ folder
 
-    Create new commands in main.py
+    Create new commands in bot.py
 
 # 🤝 Contributions
 
