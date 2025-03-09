@@ -40,7 +40,7 @@
 
 1. Clone the repository
 ```bash
-git clone https://github.com/xelAlex4/Arcade-Discord-Bot.git
+git clone https://github.com/xelAlex4/ArcadiaBot.git
 ```
 2. Install dependencies
 ```bash
